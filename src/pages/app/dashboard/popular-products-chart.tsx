@@ -8,7 +8,7 @@ const data = [
   { product: 'Pepperoni', amount: 40 },
   { product: 'Mussarela', amount: 30 },
   { product: 'Marguerita', amount: 55 },
-  { product: '4 queijos', amount: 7 },
+  { product: '4 queijos', amount: 50 },
   { product: 'Frango', amount: 340 },
 ]
 
