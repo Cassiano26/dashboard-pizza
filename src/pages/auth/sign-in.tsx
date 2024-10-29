@@ -44,7 +44,7 @@ export function SignIn() {
 
       reset()
     } catch {
-      toast.error('Credenciais inválidas')
+      toast.error('Credenciais inválidas.')
     }
   }
   return (
