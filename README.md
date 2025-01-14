@@ -1,6 +1,6 @@
-# Webpage with Vite
+# 🍕 Pizzashop App
 
-A simple webpage built using **React** and **TypeScrip**.
+A simple Pizza orders webpage built using **React** and **TypeScrip**.
 
 ## Prerequisites
 
