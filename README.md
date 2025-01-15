@@ -14,6 +14,7 @@ Ensure you have the following installed on your machine:
 ### 1. Clone and install pizzashop-api
 ```bash
 git clone https://github.com/rocketseat-education/pizzashop-api.git
+cd pizzashop-api
 bun install
 docker compose up -d
 bun migrate
